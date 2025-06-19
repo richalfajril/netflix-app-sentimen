@@ -96,10 +96,6 @@ Setelah instalasi selesai, Anda dapat menjalankan analisis sentimen dengan mengi
     jupyter notebook netflix_sentimen_analysis.ipynb
     ```
 
-### Testing
-
-Saat ini, belum ada prosedur pengujian otomatis yang tersedia untuk proyek ini. Pengujian biasanya dilakukan secara manual dengan menjalankan notebook dan memverifikasi outputnya.
-
 ## Struktur Proyek
 
 Repositori ini diorganisir sebagai berikut:
@@ -109,24 +105,3 @@ Repositori ini diorganisir sebagai berikut:
 * `netflix_sentimen_analysis.ipynb`: Notebook Jupyter inti yang berisi logika untuk analisis sentimen, mulai dari pra-pemrosesan hingga klasifikasi dan presentasi hasil.
 * `requirments.txt`: Berkas teks yang mencantumkan semua pustaka Python dan versi spesifik yang diperlukan untuk menjalankan kedua notebook di atas.
 * `ulasan_netflix.csv`: Berkas data dalam format CSV yang akan menyimpan atau sudah menyimpan ulasan aplikasi Netflix yang digunakan sebagai input untuk analisis sentimen.
-
-## Lisensi
-
-*(**Penting:** Tambahkan informasi lisensi di sini. Contoh yang paling umum adalah lisensi MIT, Apache 2.0, atau GPL. Jika Anda tidak yakin, Anda bisa meninjau lisensi umum atau menambahkan berkas `LICENSE.md` di repositori Anda.)*
-
-Contoh:
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat berkas `LICENSE.md` untuk detail lebih lanjut.
-
-## Kontribusi
-
-Kontribusi adalah apa yang membuat komunitas sumber terbuka menjadi tempat yang menakjubkan untuk belajar, menginspirasi, dan berkreasi. Setiap kontribusi yang Anda buat **sangat dihargai**.
-
-Jika Anda memiliki saran yang akan membuat ini lebih baik, silakan *fork* repositori dan buat *pull request*. Anda juga dapat membuka masalah dengan tag "enhancement".
-
-1.  *Fork* Proyek
-2.  Buat *Branch* Fitur Anda (`git checkout -b feature/AmazingFeature`)
-3.  *Commit* Perubahan Anda (`git commit -m 'Add some AmazingFeature'`)
-4.  *Push* ke *Branch* (`git push origin feature/AmazingFeature`)
-5.  Buka *Pull Request*
-
----
