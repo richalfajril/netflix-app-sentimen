@@ -1,3 +1,5 @@
+<div align="center">
+
 # NETFLIX-APP-SENTIMEN
 
 *Transform Feedback into Actionable Viewer Insights*
@@ -9,6 +11,8 @@
 Built with the tools and technologies:
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
 
 ---
 
