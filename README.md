@@ -1,16 +1,25 @@
 <div align="center">
 
-# NETFLIX-APP-SENTIMEN
+# 🎬 NETFLIX-APP-SENTIMEN
 
-*Transform Feedback into Actionable Viewer Insights*
+*Analisis Sentimen Ulasan Aplikasi Netflix Menggunakan Machine Learning & NLP*
 
 [![Last Commit](https://img.shields.io/github/last-commit/richalfajril/netflix-app-sentimen)](https://github.com/richalfajril/netflix-app-sentimen/commits/main)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter%20notebook-100.0%25-orange)
-![Languages](https://img.shields.io/github/languages/count/richalfajril/netflix-app-sentimen)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 Built with the tools and technologies:
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3DDC84?style=for-the-badge\&logo=python\&logoColor=white)
+![Sastrawi](https://img.shields.io/badge/Sastrawi-2C2D72?style=for-the-badge\&logo=python\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-368DE4?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Google Play Scraper](https://img.shields.io/badge/Google%20Play%20Scraper-34A853?style=for-the-badge\&logo=google-play\&logoColor=white)
 
 </div>
 
